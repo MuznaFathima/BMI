@@ -1,0 +1,52 @@
+
+
+*{
+   margin: 0;
+   padding: 0;
+   font-family: 'Times New Roman', Times, serif;
+  background-color:thistle;
+    
+   
+}
+/* .container{ */
+    /* background-image:url('https://img.freepik.com/premium-photo/floor-scales-tape-measure-colored-background-top-view_441923-9777.jpg');
+    background-size: cover;
+     
+} */
+
+#box{
+   
+
+    margin-top: 50px;
+    padding: 20px;
+    border: 2px double violet;
+   
+   
+    
+   
+   
+}
+
+#male{
+
+    margin-left: 130px;
+   
+}
+#female{
+    margin-left: 50px;
+    background-color: palevioletred;
+    
+   
+}
+
+
+
+
+#output{
+
+    
+    color: red;
+    margin-top: 10px;
+    font-size: 18px;
+}
+
